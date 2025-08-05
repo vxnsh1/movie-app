@@ -44,7 +44,7 @@
   }
 
   header img {
-    @apply w-full max-w-lg h-48 object-contain mx-auto drop-shadow-md;
+    @apply w-full max-w-lg h-56 object-contain mx-auto drop-shadow-md;
   }
 }
 
@@ -73,7 +73,7 @@
     }
 
     & ul li img {
-      @apply w-[127px] h-[163px] rounded-lg object-cover -ml-3.5;
+      @apply w-[132px] h-[200px] rounded-lg object-cover -ml-3.5;
     }
   }
 
