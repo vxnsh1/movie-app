@@ -33,3 +33,10 @@ It uses **React.js** for the frontend, **Appwrite** as the backend service, and 
 -  **Responsive Design** — Mobile and desktop support
 -  **Modern UI/UX** — Clean and visually appealing interface
 -  **Reusable Code Structure** — Component-based architecture
+  
+---
+
+## Screenshots 
+<img width="1897" height="917" alt="image" src="https://github.com/user-attachments/assets/28ae60e2-dede-4569-8a54-2dafb7a1fe23" />
+<img width="1897" height="917" alt="image" src="https://github.com/user-attachments/assets/b4ab6bb9-b073-426d-9c44-11ee3c533a12" />
+
